@@ -22,7 +22,7 @@ function checksTodoExists(request, response, next) {
 }
 
 function findUserById(request, response, next) {
-  // Complete aqui
+
 }
 
 app.post('/users', (request, response) => {
